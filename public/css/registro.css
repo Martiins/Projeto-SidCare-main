@@ -1,0 +1,14 @@
+.card-header {
+ background-color: #A8DADC;
+}
+.teste{
+  background-image: url("../img/frontend/imagens/registro.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media (max-width: 600px)
+{
+  .teste{
+    display: none;
+   }
+}

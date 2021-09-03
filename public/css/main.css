@@ -1,0 +1,23 @@
+body{
+  background-color: #457b9d !important;
+}
+
+.titulo{
+  color: #D3EEF3;
+  margin-top: 10%;
+  font-size: 20px;
+}
+.titulo h1{
+  font-size: 3em;
+  padding-bottom: 10%;
+  font-weight: bold;
+}
+
+@media all and (min-width:576px) {
+  .titulo h1{
+    font-size: 5em;
+  }
+}
+@media all and (min-width:768px) {}
+@media all and (min-width:992px) {}
+@media all and (min-width:1200px) {}
