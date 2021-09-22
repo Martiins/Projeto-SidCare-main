@@ -1,7 +1,6 @@
 body{
-  background-color: #457b9d !important;
+  background-color: #227caf !important;
 }
-
 .titulo{
   color: #D3EEF3;
   margin-top: 10%;
@@ -11,6 +10,12 @@ body{
   font-size: 3em;
   padding-bottom: 10%;
   font-weight: bold;
+}
+.sobre{
+  height: 350px;
+}
+.sobre h2{
+  margin-top: 80px; 
 }
 
 @media all and (min-width:576px) {

@@ -14,5 +14,13 @@
         <div class="col-sm-6">
           <img src="{{ asset('img/frontend/imagens/medicine.svg')}}" class="img-fluid" alt="Banner Inicial">
         </div>
-    </div><!--row-->
+    </div>
+
+    <div class="row mb-12 sobre">
+      <div class="col-sm-6">
+        <h2>QUEM SOMOS</h2>
+
+      </div>
+    </div>
+
 @endsection
